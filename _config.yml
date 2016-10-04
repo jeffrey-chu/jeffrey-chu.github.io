@@ -9,9 +9,7 @@ paginate:            1
 baseurl:             ""
 
 pages_list:       
-  About: 'https://jeffrey-chu.github.io/about/'
-  CV: 'https://jeffrey-chu.github.io/cv/'
-  Publications: 'https://jeffrey-chu.github.io/publications/'
+  About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
 
