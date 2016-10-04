@@ -10,8 +10,8 @@ baseurl:             ""
 
 pages_list:       
   About: '/about'
-  CV: 'cv'
-  Publications: 'publications'
+  CV: '/cv'
+  Publications: '/publications'
   Archive: '/archive'
   Feed: '/atom.xml'
 
