@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-<p class="message" align="center>
+<p class="message" align="center">
   Hey there! For the full PDF version of my resume, <a href="/cv.pdf">click here!</a>
 </p>
 
