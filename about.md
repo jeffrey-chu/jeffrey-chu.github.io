@@ -8,11 +8,13 @@ title: Resume
 </p>
 
 ## Education
-<p><b>[2014 - Present]</b> <i>The University of Manchester</i></p>
-<b>PhD Financial Mathematics</b> - Statistical Methods and Distribution Theory with Applications to Finance and Big Data, supervised by <a href="http://www.maths.manchester.ac.uk/~saralees/">Dr. Saralees Nadarajah</a>.
+<p><b>2014 - Present | PhD Financial Mathematics | The University of Manchester</b></p>
+Statistical Methods and Distribution Theory with Applications to Finance and Big Data, supervised by <a href="http://www.maths.manchester.ac.uk/~saralees/">Dr. Saralees Nadarajah</a>.
 
-<p><b>[2011 - 2012]</b> <i>The University of Manchester</i></p>
-<b>MA Economics</b> - Dissertation entitled “Foul Ball - An investigation into racial wage discrimination in the 2008 Major League Baseball season”, supervised by <a href="http://www.manchester.ac.uk/research/nicholas.j.weaver/">Mr Nick Weaver</a>.
+<p><b>2011 - 2012 | MA Economics | Distinction | The University of Manchester</b></p>
+Dissertation entitled “Foul Ball - An investigation into racial wage discrimination in the 2008 Major League Baseball season”, supervised by <a href="http://www.manchester.ac.uk/research/nicholas.j.weaver/">Mr Nick Weaver</a>.
+
+<p><b>2008 - 2011 | BA (Hons) Economics | 2:1 | The University of Manchester</b></p>
 
 
 ## Setup
