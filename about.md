@@ -3,8 +3,8 @@ layout: page
 title: Resume
 ---
 
-<p class="message">
-  <center>Hey there! For the full PDF version of my resume, <a href="/cv.pdf">click here!</a></center>
+<p class="message" align="center>
+  Hey there! For the full PDF version of my resume, <a href="/cv.pdf">click here!</a>
 </p>
 
 ## Education
