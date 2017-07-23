@@ -9,7 +9,7 @@ title: Resume
 
 ## Education
 <p><b>[2014 - Present]</b> <i>The University of Manchester</i></p>
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<b>PhD, Financial Mathematics</b> - Statistical Methods and Distribution Theory with Applications to Finance and Big Data.
 
 There are currently two themes built on Poole:
 * [Lanyon](http://lanyon.getpoole.com)
