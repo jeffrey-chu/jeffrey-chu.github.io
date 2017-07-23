@@ -18,6 +18,7 @@ title : Publications
 
 ## 2015
 <p>Chu, J., Nadarajah, S. and Chan, S., 2015. <a href="https://doi.org/10.1371/journal.pone.0133678">Statistical Analysis of the Exchange Rate of Bitcoin</a>. <i>PloS ONE</i>, 10 (7): e0133678. doi: 10.1371/journal.pone.0133678.</p>
+<p>Nadarajah, S., Jiang, X. and Chu, J., 2015. <a href="http://onlinelibrary.wiley.com/doi/10.1111/stan.12051/abstract">A saddlepoint approximation to the distribution of the sum of independent non-identically beta random variables</a>. <i>Statistica Neerlandica</i>, 69 (2), pp. 102 – 114.</p>
 
 ## 2014
 
