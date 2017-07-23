@@ -9,7 +9,7 @@ paginate:            1
 baseurl:             ""
 
 pages_list:       
-  About: '/about'
+  CV: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
 
