@@ -24,3 +24,7 @@ title: Resume
 <p><b>Winter 2015</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10141">MATH10141 Probability I</a> | First Year | Teaching Assistant</p>
 <p><b>Winter 2015</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10141">MATH10141 Probability I Support Class </a> | First Year | Lead Demonstrator</p>
 <p><b>Winter 2014</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10282">MATH10282 Introduction to Statistics</a> | First Year | Teaching Assistant</p>
+
+## Awards
+
+## Skills
