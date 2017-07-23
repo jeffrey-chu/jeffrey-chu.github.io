@@ -1,5 +1,6 @@
 ---
 layout: page
+title : Publications & Talks
 ---
 
 ## 2017
@@ -8,3 +9,4 @@ layout: page
 <p>Nadarajah, S., Jiang, X. and Chu, J., 2017. <a href="https://doi.org/10.1007/s10479-017-2444-0">Comparisons of smallest order statistics from Pareto distributions with different scale and shape parameters</a>. <i>Annals of Operations Research</i>, 254, pp. 191 - 209.</p>
 <p>Nadarajah, S. and Chu, J., 2017. <a href="https://doi.org/10.1007/s10910-016-0717-5">On moments of powers of the Hulthen density</a>. <i>Journal of Mathematical Chemistry</i>, 55, pp. 911 – 913.</p>
 <p>Nadarajah, S. and Chu, J., 2017. <a href="https://doi.org/10.1016/j.econlet.2016.10.033">On the inefficiency of Bitcoin</a>. <i>Economics Letters</i>, 150, pp. 6 – 9.</p>
+<p>Chan, S., Chu, J. and Nadarajah, S., 2017. <a href="https://doi.org/10.1016/j.econlet.2016.12.017">Is the wealth of the Forbes 400 lists really Pareto distributed?</a> <i>Economics Letters</i>, 152, pp. 9 – 14.</p>
