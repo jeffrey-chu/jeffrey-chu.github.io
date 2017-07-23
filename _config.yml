@@ -13,7 +13,7 @@ pages_list:
   Research: '/research'
   Publications & Talks: '/pubtalks'
   Archive: '/archive'
-  Feed: '/atom.xml'
+#  Feed: '/atom.xml'
 
 # Assets
 #
