@@ -8,7 +8,7 @@ title: Resume
 </p>
 
 ## Education
-<p><b>2014 - Present | PhD Financial Mathematics | The University of Manchester</b></p>
+<p><b>2014 - Present | PhD Statistics | The University of Manchester</b></p>
 Statistical Methods and Distribution Theory with Applications to Finance and Big Data, supervised by <a href="http://www.maths.manchester.ac.uk/~saralees/">Dr. Saralees Nadarajah</a>.
 
 <p><b>2011 - 2012 | MA Economics | Distinction | The University of Manchester</b></p>
