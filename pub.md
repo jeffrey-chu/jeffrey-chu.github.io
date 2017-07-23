@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Publications & Talks
+title : Publications
 ---
 
 ## 2017
@@ -10,3 +10,11 @@ title : Publications & Talks
 <p>Nadarajah, S. and Chu, J., 2017. <a href="https://doi.org/10.1007/s10910-016-0717-5">On moments of powers of the Hulthen density</a>. <i>Journal of Mathematical Chemistry</i>, 55, pp. 911 – 913.</p>
 <p>Nadarajah, S. and Chu, J., 2017. <a href="https://doi.org/10.1016/j.econlet.2016.10.033">On the inefficiency of Bitcoin</a>. <i>Economics Letters</i>, 150, pp. 6 – 9.</p>
 <p>Chan, S., Chu, J. and Nadarajah, S., 2017. <a href="https://doi.org/10.1016/j.econlet.2016.12.017">Is the wealth of the Forbes 400 lists really Pareto distributed?</a> <i>Economics Letters</i>, 152, pp. 9 – 14.</p>
+
+## 2016
+
+## 2015
+
+## 2014
+
+## Working Papers
