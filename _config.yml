@@ -10,6 +10,8 @@ baseurl:             ""
 
 pages_list:       
   CV: '/about'
+  Research: '/research'
+  Publications & Talks: '/pubtalks'
   Archive: '/archive'
   Feed: '/atom.xml'
 
