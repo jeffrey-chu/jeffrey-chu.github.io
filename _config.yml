@@ -11,7 +11,7 @@ baseurl:             ""
 pages_list:       
   Resume: '/about'
   Research: '/research'
-  Publications: '/pubtalks'
+  Publications: '/pub'
   Presentations: '/present'
   Archive: '/archive'
 #  Feed: '/atom.xml'
