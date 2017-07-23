@@ -3,9 +3,9 @@ layout: page
 title: Resume
 ---
 
-<p class="message">
+<center><p class="message">
   Hey there! For the full PDF version of my resume, <a href="/cv.pdf">click here!</a>
-</p>
+</p></center>
 
 ## Education
 <p><b>2014 - Present | PhD Statistics | The University of Manchester</b></p>
