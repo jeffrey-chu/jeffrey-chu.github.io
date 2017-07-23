@@ -7,7 +7,9 @@ title: Resume
   Hey there! For the full PDF version of my resume, <a href="/cv.pdf">click here!</a>.
 </p>
 
-
+## Education
+<b>2014 - Present</b>
+<p>The University of Manchester</p>
 In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:
