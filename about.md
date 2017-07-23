@@ -4,17 +4,16 @@ title: Resume
 ---
 
 <p class="message">
-  Hey there! For the full PDF version of my resume, <a href="/cv.pdf">click here!</a>.
+  Hey there! For the full PDF version of my resume, <a href="/cv.pdf">click here!</a>
 </p>
 
 ## Education
 <p><b>[2014 - Present]</b> <i>The University of Manchester</i></p>
-<b>PhD, Financial Mathematics</b> - Statistical Methods and Distribution Theory with Applications to Finance and Big Data.
+<b>PhD Financial Mathematics</b> - Statistical Methods and Distribution Theory with Applications to Finance and Big Data, supervised by <a href="http://www.maths.manchester.ac.uk/~saralees/">Dr. Saralees Nadarajah</a>.
 
-There are currently two themes built on Poole:
-* [Lanyon](http://lanyon.getpoole.com)
+<p><b>[2011 - 2012]</b> <i>The University of Manchester</i></p>
+<b>MA Economics</b> - Dissertation entitled “Foul Ball - An investigation into racial wage discrimination in the 2008 Major League Baseball season”, supervised by <a href="http://www.manchester.ac.uk/research/nicholas.j.weaver/">Mr Nick Weaver</a>.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
 ## Setup
 
