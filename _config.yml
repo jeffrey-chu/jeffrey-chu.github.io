@@ -8,7 +8,8 @@ url:                 http://jeffrey-chu.github.io
 paginate:            1
 baseurl:             ""
 
-pages_list:       
+pages_list:
+  Blog: '/blog'
   Resume: '/about'
   Research: '/research'
   Publications: '/pub'
