@@ -25,8 +25,8 @@ title : Publications
 <p>Chu, J., Nadarajah, S., Afuecheta, E., Chan, S. and Xu, Y., 2014. <a href="https://doi.org/10.1007/s11135-013-9932-3">A statistical study of racism in English football</a>. <i>Quality & Quantity</i>, 48 (5), pp. 2915 – 2937.</p>
 
 ## Working Papers
-<p>Chu, J. and Nadarajah, S., 2016. Estimating order statistics of network degrees.</p>
-<p>Chu, J. and Nadarajah, S., 2016. Bias reduction in population estimation of big data.</p>
-<p>Chu, J., Dickin, O., Nadarajah, S. and Jiang, X., 2015. A review of goodness of fit tests for Pareto distributions.</p>
-<p>Nadarajah, S., Chu, J. and Jiang, X., 2015. Aggregation and capital allocation formulas for bivariate distributions.</p>
-<p>Nadarajah, S., Chu, J. and Jiang, X., 2015. Comparisons of smallest order statistics from Weibull distributions with different scale and shape parameters.</p>
+<p>Chu, J. and Nadarajah, S., 2016. Estimating order statistics of network degrees [pdf].</p>
+<p>Chu, J. and Nadarajah, S., 2016. Bias reduction in population estimation of big data [pdf].</p>
+<p>Chu, J., Dickin, O., Nadarajah, S. and Jiang, X., 2015. A review of goodness of fit tests for Pareto distributions [pdf].</p>
+<p>Nadarajah, S., Chu, J. and Jiang, X., 2015. Aggregation and capital allocation formulas for bivariate distributions [pdf].</p>
+<p>Nadarajah, S., Chu, J. and Jiang, X., 2015. Comparisons of smallest order statistics from Weibull distributions with different scale and shape parameters [pdf].</p>
