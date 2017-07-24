@@ -9,7 +9,6 @@ paginate:            1
 baseurl:             ""
 
 pages_list:
-  Blog: '/blog'
   Resume: '/about'
   Research: '/research'
   Publications: '/pub'
