@@ -24,7 +24,7 @@ title : Publications
 <p>Chu, J., Nadarajah, S., Afuecheta, E. and Chan, S., 2014. On the cumulant of the log of a gamma random variable. <i>The Mathematical Scientist</i>, 39 (2), pp. 143 – 144.</p>
 <p>Chu, J., Nadarajah, S., Afuecheta, E., Chan, S. and Xu, Y., 2014. <a href="https://doi.org/10.1007/s11135-013-9932-3">A statistical study of racism in English football</a>. <i>Quality & Quantity</i>, 48 (5), pp. 2915 – 2937.</p>
 
-## Working Papers
+## Unpublished
 <p>Chu, J. and Nadarajah, S., 2016. Estimating order statistics of network degrees [pdf].</p>
 <p>Chu, J. and Nadarajah, S., 2016. Bias reduction in population estimation of big data [pdf].</p>
 <p>Chu, J., Dickin, O., Nadarajah, S. and Jiang, X., 2015. A review of goodness of fit tests for Pareto distributions [pdf].</p>
