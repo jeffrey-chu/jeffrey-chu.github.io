@@ -21,5 +21,6 @@ title : Publications
 <p>Nadarajah, S., Jiang, X. and Chu, J., 2015. <a href="http://onlinelibrary.wiley.com/doi/10.1111/stan.12051/abstract">A saddlepoint approximation to the distribution of the sum of independent non-identically beta random variables</a>. <i>Statistica Neerlandica</i>, 69 (2), pp. 102 – 114.</p>
 
 ## 2014
+<p>Chu, J., Nadarajah, S., Afuecheta, E. and Chan, S., 2014. On the cumulant of the log of a gamma random variable. <i>The Mathematical Scientist</i>, 39 (2), pp. 143 – 144.</p>
 
 ## Working Papers
