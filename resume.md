@@ -17,6 +17,7 @@ title: Resume
 <p><b>2008 - 2011 | BA (Hons) Economics | 2:1 | The University of Manchester</b></p>
 
 ## Teaching
+<p><b>Winter 2017</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH38181">MATH3/4/68181 Extreme Values and Financial Risk</a> | Third/Fourth/Masters Year | Teaching Assistant</p>
 <p><b>Spring 2017</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/service-teaching/foundation-studies/course-unit-spec/?level=1&courseUnit=MATH19842">MATH19842 Mathematics 0F2 Probability Theory and Vectors</a> | Foundation Year | Lead Demonstrator (Example Class)</p>
 <p><b>Winter 2016</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH38181">MATH3/4/68181 Extreme Values and Financial Risk</a> | Third/Fourth/Masters Year | Teaching Assistant</p>
 <p><b>Winter 2016</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10141">MATH10141 Probability I</a> | First Year | Teaching Assistant</p>
