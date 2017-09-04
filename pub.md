@@ -5,8 +5,10 @@ title : Publications
 
 ## 2017
 <p>Chu, J. and Nadarajah, S., 2017. <a href="https://doi.org/10.1016/j.physa.2016.12.073">A statistical analysis of UK financial networks</a>. <i>Physica A: Statistical Mechanics and its Applications</i>, 471, pp. 445 – 459.</p>
+<p>Chu, J. and Nadarajah, S., 2016. <a href="https://doi.org/10.1016/j.physa.2017.08.120">Estimating order statistics of network degrees</a>. <i>Physica A: Statistical Mechanics and its Applications</i>, In Press: Accepted Manuscript.</p>
 <p>Chan, S., Chu, J., Nadarajah, S. and Osterrieder, J., 2017. <a href="http://dx.doi.org/10.3390/jrfm10020012">A Statistical Analysis of Cryptocurrencies</a>. <i>Journal of Risk and Financial Management</i>, 10, 12.</p>
 <p>Jiang, X., Chu, J. and Nadarajah, S., 2017. <a href="http://dx.doi.org/10.1080/03610926.2016.1171358">New classes of discrete bivariate distributions with application to football data</a>. <i>Communications in Statistics – Theory and Methods</i>, 46 (16), pp. 8069 - 8085</p>
+<p>Nadarajah, S., Chu, J. and Jiang, X., 2015. Aggregation and capital allocation formulas for bivariate distributions. <i>Probability in the Engineering and Informational Sciences</i>, In Press: Accepted Manuscript.</p>
 <p>Nadarajah, S., Jiang, X. and Chu, J., 2017. <a href="https://doi.org/10.1007/s10479-017-2444-0">Comparisons of smallest order statistics from Pareto distributions with different scale and shape parameters</a>. <i>Annals of Operations Research</i>, 254 (1-2), pp. 191 - 209.</p>
 <p>Nadarajah, S. and Chu, J., 2017. <a href="https://doi.org/10.1007/s10910-016-0717-5">On moments of powers of the Hulthen density</a>. <i>Journal of Mathematical Chemistry</i>, 55 (4), pp. 911 – 913.</p>
 <p>Nadarajah, S. and Chu, J., 2017. <a href="https://doi.org/10.1016/j.econlet.2016.10.033">On the inefficiency of Bitcoin</a>. <i>Economics Letters</i>, 150, pp. 6 – 9.</p>
@@ -25,8 +27,6 @@ title : Publications
 <p>Chu, J., Nadarajah, S., Afuecheta, E., Chan, S. and Xu, Y., 2014. <a href="https://doi.org/10.1007/s11135-013-9932-3">A statistical study of racism in English football</a>. <i>Quality & Quantity</i>, 48 (5), pp. 2915 – 2937.</p>
 
 ## Unpublished
-<p>Chu, J. and Nadarajah, S., 2016. Estimating order statistics of network degrees [pdf].</p>
 <p>Chu, J. and Nadarajah, S., 2016. Bias reduction in population estimation of big data [pdf].</p>
 <p>Chu, J., Dickin, O., Nadarajah, S. and Jiang, X., 2015. A review of goodness of fit tests for Pareto distributions [pdf].</p>
-<p>Nadarajah, S., Chu, J. and Jiang, X., 2015. Aggregation and capital allocation formulas for bivariate distributions [pdf].</p>
 <p>Nadarajah, S., Chu, J. and Jiang, X., 2015. Comparisons of smallest order statistics from Weibull distributions with different scale and shape parameters [pdf].</p>
