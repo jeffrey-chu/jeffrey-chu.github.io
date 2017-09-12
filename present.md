@@ -12,6 +12,3 @@ title : Presentations
 
 ## 2015
 <p>"On moment based density approximations for aggregate losses" [poster] (Poster presentation) - The 9th International Conference on Extreme Value Analysis (EVA), The University of Michigan, Ann Arbor, USA, June 15th – 19th 2015.</p>
-
-## 2014
-<p>The 1st Extreme Events in Finance Conference, Royaumont Abbey, Paris, France, December 15th – 17th 2014.</p>
