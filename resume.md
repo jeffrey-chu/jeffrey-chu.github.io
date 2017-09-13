@@ -8,8 +8,8 @@ title: Resume
 </p>
 
 ## Education
-<p><b>2014 - Present | PhD Statistics | The University of Manchester</b></p>
-<p>Statistical Methods and Distribution Theory with Applications to Finance and Big Data, supervised by <a href="http://www.maths.manchester.ac.uk/~saralees/">Dr. Saralees Nadarajah</a>.</p>
+<p><b>2014 - Present | PhD Financial Mathematics | The University of Manchester</b></p>
+<p>Statistical Methods and Distribution Theory with Applications to Finance and Large Data Sets, supervised by <a href="http://www.maths.manchester.ac.uk/~saralees/">Dr. Saralees Nadarajah</a>.</p>
 
 <p><b>2011 - 2012 | MA Economics | Distinction | The University of Manchester</b></p>
 <p>Dissertation entitled “Foul Ball - An investigation into racial wage discrimination in the 2008 Major League Baseball season”, supervised by <a href="http://www.manchester.ac.uk/research/nicholas.j.weaver/">Mr Nick Weaver</a>.</p>
@@ -26,6 +26,6 @@ title: Resume
 <p><b>Winter 2015</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10141">MATH10141 Probability I Support Class </a> | First Year | Lead Demonstrator</p>
 <p><b>Winter 2014</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10282">MATH10282 Introduction to Statistics</a> | First Year | Teaching Assistant</p>
 
-## Awards
+## Honours & Awards
 
 ## Skills
