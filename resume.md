@@ -8,7 +8,7 @@ title: Resume
 </p>
 
 ## Education
-<p><b>2014 - Present | PhD Financial Mathematics | The University of Manchester</b></p>
+<p><b>2014 - 2018 | PhD Financial Mathematics | The University of Manchester</b></p>
 <p>Statistical Methods and Distribution Theory with Applications to Finance and Large Data Sets, supervised by <a href="http://www.maths.manchester.ac.uk/~saralees/">Dr. Saralees Nadarajah</a>.</p>
 
 <p><b>2011 - 2012 | MA Economics | Distinction | The University of Manchester</b></p>
@@ -18,6 +18,7 @@ title: Resume
 
 ## Teaching
 <p><b>Winter 2017</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH38181">MATH3/4/68181 Extreme Values and Financial Risk</a> | Third/Fourth/Masters Year | Teaching Assistant</p>
+<p><b>Winter 2017</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10141">MATH10141 Probability I</a> | First Year | Teaching Assistant</p>
 <p><b>Spring 2017</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/information-for-current-students/service-teaching/foundation-studies/course-unit-spec/?level=1&courseUnit=MATH19842">MATH19842 Mathematics 0F2 Probability Theory and Vectors</a> | Foundation Year | Lead Demonstrator (Example Class)</p>
 <p><b>Winter 2016</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH38181">MATH3/4/68181 Extreme Values and Financial Risk</a> | Third/Fourth/Masters Year | Teaching Assistant</p>
 <p><b>Winter 2016</b> | <a href="http://www.maths.manchester.ac.uk/study/undergraduate/courses/mathematics-bsc/course-unit-spec/?unitcode=MATH10141">MATH10141 Probability I</a> | First Year | Teaching Assistant</p>
